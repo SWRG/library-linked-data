@@ -1,6 +1,6 @@
 # Data Summary
 
-This folder contains the summary of data collected by the [aggregator tool](https://github.com/Pavlov123/semantic_indexer).
+This folder contains the summary of data collected by the [accumulator tool](https://github.com/Pavlov123/semantic_indexer).
 
 Data are stored in file `total-stats-summary.csv` in the form of a matrix with 5 columns. For each row:
 
